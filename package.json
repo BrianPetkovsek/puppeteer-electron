@@ -1,13 +1,11 @@
 {
   "name": "puppeteer-electron",
-  "version": "0.0.10",
-  "description": "Use Puppeteer's API with Electron",
+  "version": "1.0.0",
+  "description": "",
   "main": "index.js",
   "scripts": {
-    "test": "node test.js"
+    "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "author": "nondanee",
-  "license": "MIT",
   "dependencies": {
     "electron-is-packaged": "git+https://github.com/BrianPetkovsek/npm-electron-is-packaged.git",
     "puppeteer-core": "^10.1.0"
@@ -15,12 +13,14 @@
   "peerDependencies": {
     "electron": "^13.1.6"
   },
-  "keywords": [
-    "puppeteer",
-    "electron"
-  ],
   "repository": {
     "type": "git",
-    "url": "git+github.com:BrianPetkovsek/puppeteer-electron.git"
-  }
+    "url": "git+https://github.com/BrianPetkovsek/puppeteer-electron.git"
+  },
+  "author": "BrianPetkovsek",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/BrianPetkovsek/puppeteer-electron/issues"
+  },
+  "homepage": "https://github.com/BrianPetkovsek/puppeteer-electron#readme"
 }
