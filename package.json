@@ -8,9 +8,7 @@
   },
   "dependencies": {
     "electron-is-packaged": "git+https://github.com/BrianPetkovsek/npm-electron-is-packaged.git",
-    "puppeteer-core": "^10.1.0"
-  },
-  "peerDependencies": {
+    "puppeteer-core": "^10.1.0",
     "electron": "^13.1.6"
   },
   "repository": {
