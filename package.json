@@ -9,12 +9,13 @@
   "author": "nondanee",
   "license": "MIT",
   "dependencies": {
-    "electron": "^9.1.0",
-    "puppeteer-core": "^1.18.1"
+    "electron": "^13.1.6",
+    "electron-is-packaged": "git+https://github.com/BrianPetkovsek/npm-electron-is-packaged.git",
+    "puppeteer-core": "^10.1.0"
   },
   "keywords": [
     "puppeteer",
     "electron"
   ],
-  "repository": "nondanee/puppeteer-electron"
+  "repository": "BrianPetkovsek/puppeteer-electron"
 }
