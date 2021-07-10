@@ -17,5 +17,8 @@
     "puppeteer",
     "electron"
   ],
-  "repository": "BrianPetkovsek/puppeteer-electron"
+  "repository": {                                                                                                                    
+	"type": "git",
+	"url": "git+github.com:BrianPetkovsek/puppeteer-electron.git"
+  },
 }
